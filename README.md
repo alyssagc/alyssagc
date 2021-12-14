@@ -31,7 +31,7 @@
 </div>
 
 ##
-
+####
 <div> 
   
   ![Snake animation](https://github.com/alyssagc/alyssagc/blob/output/github-contribution-grid-snake.svg)
